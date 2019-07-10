@@ -1,5 +1,5 @@
 # Operator-Precedence-Parser
-The most advantage of this method, is its simplicity of implementation, because in this method we consider all the terminals as operators. <br />we have three precedences:<br />
+The advantage of this method, is its simplicity of implementation, because in this method we consider all the terminals as operators. <br />we have three precedences:<br />
 if a<.b: the precedence of the terminal a is less than the precedence of terminal b <br />
 if a=b: the precedence of both terminals are equal. <br />
 if a.>b: the precedence of the terminal a is more than the precedence of terminal b <br />
